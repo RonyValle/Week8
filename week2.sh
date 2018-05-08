@@ -1,6 +1,7 @@
 #!/bin/bash
 
 clear
+pwd
 cd ~
 echo We will create a directory name "cars" in your home directory
 mkdir cars
